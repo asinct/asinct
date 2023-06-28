@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Xing @asinct.
 - 👀 I’m interested in Java, C++ & Reverse engineering.
 - 🌱 I’m currently learning reverse engineering.
+- I used to live in Fengcheng, Chengdu and Hong Kong, and now I live in Chengdu.
 
 <!---
 - 💞️ I’m looking to collaborate on ...
